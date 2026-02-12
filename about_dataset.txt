@@ -1,0 +1,114 @@
+About Dataset
+Three CSV files are provided:
+
+Coffee Quality dataset:
+
+Coffee Quality grouped by Continent dataset:
+
+Coffee Quality Grouped by Country dataset:
+
+Data
+
+CQI maintains a web database that serves as a resource for coffee professionals and enthusiasts who are interested in learning about coffee quality and sustainability. The database includes a range of information on coffee production, processing, and sensory evaluation. It also contains data on coffee genetics, soil types, and other factors that can affect coffee quality.
+
+Fields
+
+REC_ID : Refers to the unique database ID
+
+Species : Refers to the botanical species of the coffee beans, such as Arabica or Robusta.
+Continent.of.Origin : Refers to the continent of origin for the respective coffee lot record.
+Country.of.Origin : Refers to the country of origin for the respective coffee lot record.
+**Harvest.Year ** : Refers to the year harvested for the respective coffee lot record.
+Expiration : Refers to the assigned expiration date for the respective coffee lot record.
+Variety : Refers to the specific cultivar or type of coffee plant from which the beans are harvested.
+
+Color : Refers to the observed color of raw coffee bean. Typically blue, green, or mixed.
+Processing.Method: Describes the method used to process the coffee beans after harvesting.
+Aroma : Refers to the scent or fragrance of the coffee.
+Flavor : Evaluated based on the taste, including any sweetness, bitterness, acidity, and other flavor notes.
+Aftertaste: Refers to the lingering taste that remains in the mouth after swallowing the coffee.
+Acidity : Refers to the brightness or liveliness of the taste.
+Body : Refers to the thickness or viscosity of the coffee in the mouth
+Balance : Refers to how well the different flavor components of the coffee work together.
+Uniformity: Refers to the consistency of the coffee from cup to cup.
+Clean.Cup: Refers to a coffee that is free of any off-flavors or defects, such as sourness, mustiness, or staleness.
+Sweetness: Refers to the pallet of sweetness offered by its taste
+Moisture : Represents the moisture content of the coffee beans, typically measured as a percentage.
+
+Quakers : Indicates the presence of quaker beans, which are unripe or defective beans that fail to roast properly.
+
+Category.One.Defects : Refers to the total number of first level defects, such as black or sour beans.
+
+Category.Two.Defects : Refers to the total number of second level defects, including more severe defects like moldy, insect-damaged, or perforated beans.
+
+Rec_Cnt (Grouped by data sets only): Refers to the total record count for each of the respective location bins
+
+___
+
+About Dataset
+О наборе данных
+
+Предоставлены три CSV-файла:
+
+Coffee Quality dataset:
+Набор данных по качеству кофе
+
+Coffee Quality grouped by Continent dataset:
+Набор данных по качеству кофе, сгруппированный по континентам
+
+Coffee Quality Grouped by Country dataset:
+Набор данных по качеству кофе, сгруппированный по странам
+
+Data
+Данные
+
+CQI поддерживает веб-базу данных, которая служит ресурсом для профессионалов и энтузиастов в сфере кофе, заинтересованных в изучении качества кофе и устойчивого развития. База данных включает широкий спектр информации о производстве кофе, обработке и сенсорной оценке. Также она содержит данные о генетике кофе, типах почв и других факторах, которые могут влиять на качество кофе.
+
+Fields
+Поля
+
+REC_ID : Уникальный идентификатор записи в базе данных.
+
+Species : Ботанический вид кофейных зёрен, например Arabica или Robusta.
+
+Continent.of.Origin : Континент происхождения соответствующей партии кофе.
+
+Country.of.Origin : Страна происхождения соответствующей партии кофе.
+
+Harvest.Year : Год сбора урожая для соответствующей партии кофе.
+
+Expiration : Назначенная дата окончания срока действия (актуальности) записи о партии кофе.
+
+Variety : Конкретный сорт (культивар) кофейного растения, из которого были собраны зёрна.
+
+Color : Наблюдаемый цвет необжаренных кофейных зёрен. Обычно синий, зелёный или смешанный.
+
+Processing.Method : Метод обработки кофейных зёрен после сбора урожая.
+
+Aroma : Аромат или запах кофе.
+
+Flavor : Оценка вкуса, включая сладость, горечь, кислотность и другие вкусовые ноты.
+
+Aftertaste : Послевкусие — вкус, который остаётся во рту после глотка кофе.
+
+Acidity : Яркость или живость вкуса.
+
+Body : Плотность или вязкость кофе во рту.
+
+Balance : Насколько хорошо различные вкусовые компоненты кофе сочетаются между собой.
+
+Uniformity : Постоянство вкуса от чашки к чашке.
+
+Clean.Cup : Отсутствие посторонних вкусов или дефектов, таких как кислинка, затхлость или несвежесть.
+
+Sweetness : Воспринимаемая сладость во вкусовом профиле кофе.
+
+Moisture : Содержание влаги в кофейных зёрнах, обычно измеряемое в процентах.
+
+Quakers : Наличие «quaker» зёрен — недозрелых или дефектных зёрен, которые плохо обжариваются.
+
+Category.One.Defects : Общее количество дефектов первого уровня, таких как чёрные или кислые зёрна.
+
+Category.Two.Defects : Общее количество дефектов второго уровня, включая более серьёзные дефекты, такие как плесневые, повреждённые насекомыми или перфорированные зёрна.
+
+Rec_Cnt (Grouped by data sets only) : Общее количество записей для каждой соответствующей группы локаций (только для сгруппированных наборов данных).
